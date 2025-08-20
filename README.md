@@ -21,6 +21,8 @@ Cada colaborador deve conter pelo menos:
 - Cargo
 - Unidade
 - Ramais ou VoIP
+- Email
+- Data de Nascimento
 
 ### Instruções de Instalação
 1. Clone o repositório
